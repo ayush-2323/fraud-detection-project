@@ -30,7 +30,7 @@ The model demonstrated excellent performance in distinguishing between fraudulen
 
 | Confusion Matrix | Feature Importance |
 | :---: | :---: |
-| ![Confusion Matrix](./images/confusion_matrix.png) | ![Feature Importance](./images/feature_importance.png) |
+| ![Confusion Matrix](Confusion_matrix.png) | ![Feature Importance](./images/feature_importance.png) |
 
 ## 5. Key Predictive Factors
 The top factors that the model uses to predict fraud are:
