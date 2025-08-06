@@ -1,7 +1,7 @@
 
 # Financial Fraud Detection Model
 
-### [View the Full Analysis in the Jupyter Notebook](./notebooks/fraud_detection_analysis.ipynb)
+### [View the Full Analysis in the Jupyter Notebook](fraud_detection_analysis.ipynb)
 
 ---
 
