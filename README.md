@@ -6,7 +6,7 @@
 ---
 
 ## 1. Business Context
-This project is an internship task from INSAID. The goal is to develop a machine learning model to predict fraudulent transactions for a financial company. The model's insights will be used to create an actionable plan to prevent fraud and identify its key drivers. The dataset contains over 6.3 million simulated transaction records.
+This project is an internship task from **Accredian**. The goal is to develop a machine learning model to predict fraudulent transactions for a financial company. The model's insights will be used to create an actionable plan to prevent fraud and identify its key drivers. The dataset contains over 6.3 million simulated transaction records.
 
 ## 2. Data Cleaning and Preprocessing
 *   **Missing Values:** The dataset was checked for missing values. While the features were complete, the target variable had some NaN entries which were removed before modeling.
